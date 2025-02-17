@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <p>${clanData.Desc}</p>
           <p><strong>Created:</strong> ${new Date(clanData.Created * 1000).toLocaleString()}</p>
           <p><strong>Capacity:</strong> ${clanData.MemberCapacity} Members, ${clanData.OfficerCapacity} Officers</p>
-          <p><strong>Guild Level:</strong> ${clanData.GuildLevel}</p>
+          <p><strong>Clan Level:</strong> ${clanData.GuildLevel}</p>
         </div>
       </div>
     `;
