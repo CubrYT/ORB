@@ -223,7 +223,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (awardedUserIds.includes(Number(member.UserID)) || pointsMap[member.UserID]) {
           member.battles[battleId] = {
             medal: battle.EarnedMedal || 'None',
-            points: pointsMap[member.UserID] || 0,
+            points: pointsMap[member.UserID] || 'No Data',
           };
         }
       });
