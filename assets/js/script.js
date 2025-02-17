@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const proxyBaseUrl = 'https://nong-uc04.onrender.com/';
+  const proxyBaseUrl = 'https://orb-eaj2.onrender.com';
 
   // Default clan name
   let clanName = 'orb';
