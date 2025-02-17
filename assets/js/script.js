@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const proxyBaseUrl = 'https://nong-uc04.onrender.com/';
+  const proxyBaseUrl = 'https://orb-uc04.onrender.com/';
 
   // Default clan name
-  let clanName = 'nong';
+  let clanName = 'orb';
 
   // Check if the URL has a `clan` parameter
   const urlParams = new URLSearchParams(window.location.search);
