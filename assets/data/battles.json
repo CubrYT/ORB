@@ -152,5 +152,12 @@
         "Description": "",
         "StartDate": "2025-01-11",
         "EndDate": "2025-01-24"
-    }                                                                      
+    },  
+     {
+        "BattleID": "ValBattle",
+        "Name": "Holographic Battle!",
+        "Description": "",
+        "StartDate": "2025-02-08",
+        "EndDate": "2025-02-14"
+    }                                       
 ]
